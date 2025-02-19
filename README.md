@@ -7,6 +7,8 @@ This project is a **Library Management System** built using SQL. It includes var
 
 ---
 
+![ERD Diagram](erd.png)
+
 ## **Tasks and Queries**
 
 ### **Task 1: Create a New Book Record**
